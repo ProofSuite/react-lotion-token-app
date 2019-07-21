@@ -1,5 +1,5 @@
 {
-  "name": "@proofsuite/coinchain",
+  "name": "@proofsuite/tokenchain",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bs58check": "^2.1.2",
+    "global": "^4.4.0",
     "haikunator": "^2.1.1",
-    "lotion": "^0.4.26"
+    "lotion": "^0.4.26",
+    "secp256k1": "^3.7.1",
+    "supercop.js": "^2.0.1"
   }
 }

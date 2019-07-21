@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { createChainStore } from 'redux-tendermint'
-import { reducer, actions } from '@proofsuite/coinchain'
+import { reducer, actions } from '@proofsuite/tokenchain'
 import { Provider } from 'react-redux'
 import { genesis, chainId } from './config.json'
 

@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
-import { actions } from '@proofsuite/coinchain'
+import { actions } from '@proofsuite/tokenchain'
 import Wallet from '../utils/wallet'
 
 class SendTxForm extends Component {
