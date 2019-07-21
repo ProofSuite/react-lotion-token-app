@@ -1,0 +1,16 @@
+{
+  "name": "@proofsuite/coinchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node chain.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "haikunator": "^2.1.1",
+    "lotion": "^0.4.26"
+  }
+}
